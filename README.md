@@ -1,2 +1,3 @@
 # The-Still-Variables
-Creating model which will predict the stay period of a patient in a hospital after analyzing factors "ward type" and "severity of illness". We are using Decision trees to find the underlying patterns in the data and then we shall further proceed with other techniques and algorithms
+This project accurately predicts the Length of Stay for each patient on case by case basis.
+Recent Covid-19 Pandemic has raised alarms over one of the most overlooked area to focus: Healthcare Management. While healthcare management has various use cases for using data science, patient length of stay is one critical parameter to observe and predict if one wants to improve the efficiency of the healthcare management in a hospital.
